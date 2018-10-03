@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="time_end">Время вышло!</string>
+    <string name="timer_text">00ч 00м 00с</string>
+    <string name="text_day">Дней</string>
+    <string name="day_count">0</string>
+    <string name="text_info">Отсчет ведется до целевой даты с момента запуска, \n дату можно изменить
+        \n (выберите нужные дату и время, затем нажмите старт):</string>
+    <string name="btn_set">готово</string>
+    <string name="text_top">До конца отсчета осталось:</string>
+</resources>
